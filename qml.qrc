@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TextBox.qml</file>
+        <file>assets/charph1.png</file>
+        <file>assets/charph2.png</file>
+        <file>assets/txtbox.png</file>
+        <file>Dialogue.qml</file>
+        <file>assets/choose.png</file>
+        <file>Choose.qml</file>
+        <file>ChooseButton.qml</file>
+        <file>MainGamePlay.qml</file>
+        <file>assets/charempty.png</file>
+        <file>assets/bg/home.png</file>
+        <file>assets/bg/demo.png</file>
+        <file>assets/menutrain.png</file>
+        <file>MainMenu.qml</file>
+        <file>assets/bg/transition.png</file>
+        <file>BlackTransition.qml</file>
+        <file>assets/items/ticket.png</file>
+        <file>assets/bg/start.png</file>
+    </qresource>
+</RCC>
